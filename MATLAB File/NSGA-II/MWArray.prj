@@ -1,0 +1,198 @@
+<deployment-project plugin="plugin.ezdeploy" plugin-version="1.0">
+  <configuration build-checksum="2677182102" file="D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II\MWArray.prj" location="D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II" name="MWArray" preferred-package-location="D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II\MWArray\for_redistribution" preferred-package-type="package.type.exe" target="target.ezdeploy.library" target-name="Library Compiler">
+    <param.appname>MWArray</param.appname>
+    <param.icon />
+    <param.icons />
+    <param.version>1.0</param.version>
+    <param.authnamewatermark>Michael</param.authnamewatermark>
+    <param.email>zuiguojianghu@gmail.com</param.email>
+    <param.company />
+    <param.summary />
+    <param.description>NSGA-II improved and is used on tunnel project</param.description>
+    <param.screenshot />
+    <param.guid />
+    <param.net.saved.interface />
+    <param.installpath.string>\MWArray\</param.installpath.string>
+    <param.installpath.combo>option.installpath.programfiles</param.installpath.combo>
+    <param.logo />
+    <param.install.notes />
+    <param.intermediate>${PROJECT_ROOT}\MWArray\for_testing</param.intermediate>
+    <param.files.only>${PROJECT_ROOT}\MWArray\for_redistribution_files_only</param.files.only>
+    <param.output>${PROJECT_ROOT}\MWArray\for_redistribution</param.output>
+    <param.enable.clean.build>false</param.enable.clean.build>
+    <param.user.defined.mcr.options />
+    <param.embed.ctf>true</param.embed.ctf>
+    <param.target.type>subtarget.net.component</param.target.type>
+    <param.support.packages />
+    <param.required.mcr.products>
+      <item>35000</item>
+      <item>35010</item>
+      <item>35001</item>
+    </param.required.mcr.products>
+    <param.namespace>MWArray</param.namespace>
+    <param.classorg />
+    <param.web.mcr>true</param.web.mcr>
+    <param.package.mcr>false</param.package.mcr>
+    <param.no.mcr>false</param.no.mcr>
+    <param.web.mcr.name>MyAppInstaller_web</param.web.mcr.name>
+    <param.package.mcr.name>MyAppInstaller_mcr</param.package.mcr.name>
+    <param.no.mcr.name>MyAppInstaller_app</param.no.mcr.name>
+    <param.windows.command.prompt>true</param.windows.command.prompt>
+    <param.create.log>false</param.create.log>
+    <param.log.file />
+    <param.user.only.registration>false</param.user.only.registration>
+    <param.net.framework>option.net.framework.default</param.net.framework>
+    <param.assembly.type>false</param.assembly.type>
+    <param.encryption.key.file />
+    <param.net.enable.remoting>false</param.net.enable.remoting>
+    <param.net.tsa.enable>false</param.net.tsa.enable>
+    <param.net.tsa.assembly />
+    <param.net.tsa.interface />
+    <param.net.tsa.namespace>MWArray</param.net.tsa.namespace>
+    <param.net.tsa.superclass>Class1</param.net.tsa.superclass>
+    <param.net.tsa.metadata />
+    <param.net.tsa.metadata.assembly>D:\Matlab\bin</param.net.tsa.metadata.assembly>
+    <unset>
+      <param.icon />
+      <param.icons />
+      <param.version />
+      <param.company />
+      <param.summary />
+      <param.screenshot />
+      <param.guid />
+      <param.net.saved.interface />
+      <param.installpath.string />
+      <param.installpath.combo />
+      <param.logo />
+      <param.intermediate />
+      <param.files.only />
+      <param.output />
+      <param.enable.clean.build />
+      <param.user.defined.mcr.options />
+      <param.embed.ctf />
+      <param.support.packages />
+      <param.namespace />
+      <param.classorg />
+      <param.web.mcr />
+      <param.package.mcr />
+      <param.no.mcr />
+      <param.web.mcr.name />
+      <param.package.mcr.name />
+      <param.no.mcr.name />
+      <param.windows.command.prompt />
+      <param.create.log />
+      <param.log.file />
+      <param.user.only.registration />
+      <param.net.framework />
+      <param.assembly.type />
+      <param.encryption.key.file />
+      <param.net.enable.remoting />
+      <param.net.tsa.enable />
+      <param.net.tsa.assembly />
+      <param.net.tsa.interface />
+      <param.net.tsa.namespace />
+      <param.net.tsa.superclass />
+      <param.net.tsa.metadata />
+      <param.net.tsa.metadata.assembly />
+    </unset>
+    <fileset.exports>
+      <file>${PROJECT_ROOT}\cutoff.m</file>
+      <file>${PROJECT_ROOT}\evaluate_objective.m</file>
+      <file>${PROJECT_ROOT}\genetic_operator.m</file>
+      <file>${PROJECT_ROOT}\gz_compute.m</file>
+      <file>${PROJECT_ROOT}\gz_density.m</file>
+      <file>${PROJECT_ROOT}\gz_enter.m</file>
+      <file>${PROJECT_ROOT}\gz_exit.m</file>
+      <file>${PROJECT_ROOT}\gz_flow.m</file>
+      <file>${PROJECT_ROOT}\gz_road.m</file>
+      <file>${PROJECT_ROOT}\gz_speed.m</file>
+      <file>${PROJECT_ROOT}\initialize_variables.m</file>
+      <file>${PROJECT_ROOT}\non_domination_sort_mod.m</file>
+      <file>${PROJECT_ROOT}\nsga_2.m</file>
+      <file>${PROJECT_ROOT}\objective_description_function.m</file>
+      <file>${PROJECT_ROOT}\PI.m</file>
+      <file>${PROJECT_ROOT}\replace_chromosome.m</file>
+      <file>${PROJECT_ROOT}\standarization1.m</file>
+      <file>${PROJECT_ROOT}\topsis.m</file>
+      <file>${PROJECT_ROOT}\tournament_selection.m</file>
+    </fileset.exports>
+    <fileset.classes>
+      <entity.package name="">
+        <entity.class name="Class1">
+          <file>${PROJECT_ROOT}\cutoff.m</file>
+          <file>${PROJECT_ROOT}\evaluate_objective.m</file>
+          <file>${PROJECT_ROOT}\genetic_operator.m</file>
+          <file>${PROJECT_ROOT}\gz_compute.m</file>
+          <file>${PROJECT_ROOT}\gz_density.m</file>
+          <file>${PROJECT_ROOT}\gz_enter.m</file>
+          <file>${PROJECT_ROOT}\gz_exit.m</file>
+          <file>${PROJECT_ROOT}\gz_flow.m</file>
+          <file>${PROJECT_ROOT}\gz_road.m</file>
+          <file>${PROJECT_ROOT}\gz_speed.m</file>
+          <file>${PROJECT_ROOT}\initialize_variables.m</file>
+          <file>${PROJECT_ROOT}\non_domination_sort_mod.m</file>
+          <file>${PROJECT_ROOT}\nsga_2.m</file>
+          <file>${PROJECT_ROOT}\objective_description_function.m</file>
+          <file>${PROJECT_ROOT}\PI.m</file>
+          <file>${PROJECT_ROOT}\replace_chromosome.m</file>
+          <file>${PROJECT_ROOT}\standarization1.m</file>
+          <file>${PROJECT_ROOT}\topsis.m</file>
+          <file>${PROJECT_ROOT}\tournament_selection.m</file>
+        </entity.class>
+      </entity.package>
+    </fileset.classes>
+    <fileset.resources />
+    <fileset.package />
+    <build-deliverables>
+      <file location="${PROJECT_ROOT}\MWArray\for_testing" name="readme.txt" optional="true">D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II\MWArray\for_testing\readme.txt</file>
+      <file location="${PROJECT_ROOT}\MWArray\for_testing" name="MWArray_overview.html" optional="false">D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II\MWArray\for_testing\MWArray_overview.html</file>
+      <file location="${PROJECT_ROOT}\MWArray\for_testing" name="MWArrayNative.dll" optional="false">D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II\MWArray\for_testing\MWArrayNative.dll</file>
+      <file location="${PROJECT_ROOT}\MWArray\for_testing" name="MWArray.dll" optional="false">D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II\MWArray\for_testing\MWArray.dll</file>
+    </build-deliverables>
+    <workflow />
+    <matlab>
+      <root>D:\Matlab</root>
+      <toolboxes>
+        <toolbox name="matlabhdlcoder" />
+        <toolbox name="fixedpoint" />
+        <toolbox name="embeddedcoder" />
+        <toolbox name="matlabcoder" />
+      </toolboxes>
+      <toolbox>
+        <matlabhdlcoder>
+          <enabled>true</enabled>
+        </matlabhdlcoder>
+      </toolbox>
+      <toolbox>
+        <fixedpoint>
+          <enabled>true</enabled>
+        </fixedpoint>
+      </toolbox>
+      <toolbox>
+        <embeddedcoder>
+          <enabled>true</enabled>
+        </embeddedcoder>
+      </toolbox>
+      <toolbox>
+        <matlabcoder>
+          <enabled>true</enabled>
+        </matlabcoder>
+      </toolbox>
+    </matlab>
+    <platform>
+      <unix>false</unix>
+      <mac>false</mac>
+      <windows>true</windows>
+      <win2k>false</win2k>
+      <winxp>false</winxp>
+      <vista>false</vista>
+      <linux>false</linux>
+      <solaris>false</solaris>
+      <osver>6.2</osver>
+      <os32>false</os32>
+      <os64>true</os64>
+      <arch>win64</arch>
+      <matlab>true</matlab>
+    </platform>
+  </configuration>
+</deployment-project>

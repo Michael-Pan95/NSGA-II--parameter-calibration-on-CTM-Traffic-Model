@@ -1,0 +1,117 @@
+ant:
+<ant>
+  <mkdir dir="D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II\NSGA\for_redistribution" />
+  <mkdir dir="D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II\NSGA\for_testing" />
+  <mkdir dir="D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II\NSGA\for_redistribution_files_only" />
+</ant>
+mcc -W 'dotnet:NSGA,NSGA_Class,0.0,private' -T link:lib -d D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II\NSGA\for_testing -v 'class{NSGA_Class:D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II\cutoff.m,D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II\evaluate_objective.m,D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II\genetic_operator.m,D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II\gz_compute.m,D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II\gz_density.m,D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II\gz_enter.m,D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II\gz_exit.m,D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II\gz_flow.m,D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II\gz_road.m,D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II\gz_speed.m,D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II\initialize_variables.m,D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II\non_domination_sort_mod.m,D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II\nsga_2.m,D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II\objective_description_function.m,D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II\PI.m,D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II\replace_chromosome.m,D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II\standarization1.m,D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II\topsis.m,D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II\tournament_selection.m}' 
+Compiler version: 6.0 (R2015a)
+Dependency analysis by REQUIREMENTS.
+[警告: Adding path "D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II" to Compiler path
+instance.] 
+[警告: Adding path "D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II" to Compiler path
+instance.] 
+[警告: 重复的目录名称: D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II] 
+[警告: Adding path "D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II" to Compiler path
+instance.] 
+[警告: 重复的目录名称: D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II] 
+[警告: Adding path "D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II" to Compiler path
+instance.] 
+[警告: 重复的目录名称: D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II] 
+[警告: Adding path "D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II" to Compiler path
+instance.] 
+[警告: 重复的目录名称: D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II] 
+[警告: Adding path "D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II" to Compiler path
+instance.] 
+[警告: 重复的目录名称: D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II] 
+[警告: Adding path "D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II" to Compiler path
+instance.] 
+[警告: 重复的目录名称: D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II] 
+[警告: Adding path "D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II" to Compiler path
+instance.] 
+[警告: 重复的目录名称: D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II] 
+[警告: Adding path "D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II" to Compiler path
+instance.] 
+[警告: 重复的目录名称: D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II] 
+[警告: Adding path "D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II" to Compiler path
+instance.] 
+[警告: 重复的目录名称: D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II] 
+[警告: Adding path "D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II" to Compiler path
+instance.] 
+[警告: 重复的目录名称: D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II] 
+[警告: Adding path "D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II" to Compiler path
+instance.] 
+[警告: 重复的目录名称: D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II] 
+[警告: Adding path "D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II" to Compiler path
+instance.] 
+[警告: 重复的目录名称: D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II] 
+[警告: Adding path "D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II" to Compiler path
+instance.] 
+[警告: 重复的目录名称: D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II] 
+[警告: Adding path "D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II" to Compiler path
+instance.] 
+[警告: 重复的目录名称: D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II] 
+[警告: Adding path "D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II" to Compiler path
+instance.] 
+[警告: 重复的目录名称: D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II] 
+[警告: Adding path "D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II" to Compiler path
+instance.] 
+[警告: 重复的目录名称: D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II] 
+[警告: Adding path "D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II" to Compiler path
+instance.] 
+[警告: 重复的目录名称: D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II] 
+[警告: Adding path "D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II" to Compiler path
+instance.] 
+[警告: 重复的目录名称: D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II] 
+Parsing file "D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II\cutoff.m"
+	(Referenced from: "Compiler Command Line").
+Parsing file "D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II\evaluate_objective.m"
+	(Referenced from: "Compiler Command Line").
+Parsing file "D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II\genetic_operator.m"
+	(Referenced from: "Compiler Command Line").
+Parsing file "D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II\gz_compute.m"
+	(Referenced from: "Compiler Command Line").
+Parsing file "D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II\gz_density.m"
+	(Referenced from: "Compiler Command Line").
+Parsing file "D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II\gz_enter.m"
+	(Referenced from: "Compiler Command Line").
+Parsing file "D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II\gz_exit.m"
+	(Referenced from: "Compiler Command Line").
+Parsing file "D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II\gz_flow.m"
+	(Referenced from: "Compiler Command Line").
+Parsing file "D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II\gz_road.m"
+	(Referenced from: "Compiler Command Line").
+Parsing file "D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II\gz_speed.m"
+	(Referenced from: "Compiler Command Line").
+Parsing file "D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II\initialize_variables.m"
+	(Referenced from: "Compiler Command Line").
+Parsing file "D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II\non_domination_sort_mod.m"
+	(Referenced from: "Compiler Command Line").
+Parsing file "D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II\nsga_2.m"
+	(Referenced from: "Compiler Command Line").
+Parsing file "D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II\objective_description_function.m"
+	(Referenced from: "Compiler Command Line").
+Parsing file "D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II\PI.m"
+	(Referenced from: "Compiler Command Line").
+Parsing file "D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II\replace_chromosome.m"
+	(Referenced from: "Compiler Command Line").
+Parsing file "D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II\standarization1.m"
+	(Referenced from: "Compiler Command Line").
+Parsing file "D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II\topsis.m"
+	(Referenced from: "Compiler Command Line").
+Parsing file "D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II\tournament_selection.m"
+	(Referenced from: "Compiler Command Line").
+Deleting 4 temporary MEX authorization files.
+Removing: 'C:\Users\Michael\AppData\Local\Temp\mathworks_tmp_1d3307717_119600.auth'.
+Removing: 'C:\Users\Michael\AppData\Local\Temp\mathworks_tmp_1d33019053_119600.auth'.
+Removing: 'C:\Users\Michael\AppData\Local\Temp\mathworks_tmp_1d33031321_119600.auth'.
+Removing: 'C:\Users\Michael\AppData\Local\Temp\mathworks_tmp_1d33020926_119600.auth'.
+Generating file "D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II\NSGA\for_testing\NSGA_ClassNative.cs".
+Generating file "D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II\NSGA\for_testing\NSGA_Class.cs".
+Generating file "D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II\NSGA\for_testing\readme.txt".
+Executing command: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe /nologo /optimize /doc:"D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II\NSGA\for_testing\NSGA.xml" /t:library /r:"C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\dotnetbuilder\bin\win64\v2.0\MWArray.dll" /resource:"D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II\NSGA\for_testing\NSGA.ctf" /out:"D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II\NSGA\for_testing\NSGA.dll" "D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II\NSGA\for_testing\NSGA_Class.cs"Executing command: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe /nologo /optimize /doc:"D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II\NSGA\for_testing\NSGANative.xml" /t:library /r:"C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\dotnetbuilder\bin\win64\v2.0\MWArray.dll" /resource:"D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II\NSGA\for_testing\NSGA.ctf" /out:"D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II\NSGA\for_testing\NSGANative.dll" "D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II\NSGA\for_testing\NSGA_ClassNative.cs"
+Packaging...
+Creating the bundle...
+Web based installer created at D:\SHU\大四\毕业论文\潘正宇\NSGA改进\NSGA-II\NSGA\for_redistribution\MyAppInstaller_web.exe.
+Packaging complete.
+Elapsed packaging time was: 3 minutes and 41 seconds.
