@@ -1,0 +1,32 @@
+D:\SHU\大四\毕业论文\Sun Doc\UIdesign\UIdesign\bin\x64\Debug\UIdesign.exe.config
+D:\SHU\大四\毕业论文\Sun Doc\UIdesign\UIdesign\bin\x64\Debug\UIdesign.exe
+D:\SHU\大四\毕业论文\Sun Doc\UIdesign\UIdesign\bin\x64\Debug\UIdesign.pdb
+D:\SHU\大四\毕业论文\Sun Doc\UIdesign\UIdesign\obj\x64\Debug\UIdesign.csprojResolveAssemblyReference.cache
+D:\SHU\大四\毕业论文\Sun Doc\UIdesign\UIdesign\obj\x64\Debug\UIdesign.Form1.resources
+D:\SHU\大四\毕业论文\Sun Doc\UIdesign\UIdesign\obj\x64\Debug\UIdesign.Form2.resources
+D:\SHU\大四\毕业论文\Sun Doc\UIdesign\UIdesign\obj\x64\Debug\UIdesign.Form3.resources
+D:\SHU\大四\毕业论文\Sun Doc\UIdesign\UIdesign\obj\x64\Debug\UIdesign.Form4.resources
+D:\SHU\大四\毕业论文\Sun Doc\UIdesign\UIdesign\obj\x64\Debug\UIdesign.Properties.Resources.resources
+D:\SHU\大四\毕业论文\Sun Doc\UIdesign\UIdesign\obj\x64\Debug\UIdesign.csproj.GenerateResource.Cache
+D:\SHU\大四\毕业论文\Sun Doc\UIdesign\UIdesign\obj\x64\Debug\UIdesign.exe
+D:\SHU\大四\毕业论文\Sun Doc\UIdesign\UIdesign\obj\x64\Debug\UIdesign.pdb
+D:\SHU\大四\毕业论文\Sun Doc\UIdesign\UIdesign\bin\x64\Debug\NSGA.dll
+D:\SHU\大四\毕业论文\Sun Doc\UIdesign\UIdesign\bin\x64\Debug\NSGANative.dll
+D:\SHU\大四\毕业论文\Sun Doc\UIdesign\UIdesign\obj\x64\Debug\UIdesign.Form5.resources
+D:\SHU\大四\毕业论文\temp\UIdesign\UIdesign\bin\x64\Debug\UIdesign.exe.config
+D:\SHU\大四\毕业论文\temp\UIdesign\UIdesign\bin\x64\Debug\UIdesign.exe
+D:\SHU\大四\毕业论文\temp\UIdesign\UIdesign\bin\x64\Debug\UIdesign.pdb
+D:\SHU\大四\毕业论文\temp\UIdesign\UIdesign\bin\x64\Debug\MWArray.dll
+D:\SHU\大四\毕业论文\temp\UIdesign\UIdesign\bin\x64\Debug\NSGA.dll
+D:\SHU\大四\毕业论文\temp\UIdesign\UIdesign\bin\x64\Debug\NSGANative.dll
+D:\SHU\大四\毕业论文\temp\UIdesign\UIdesign\bin\x64\Debug\MWArray.xml
+D:\SHU\大四\毕业论文\temp\UIdesign\UIdesign\obj\x64\Debug\UIdesign.csprojResolveAssemblyReference.cache
+D:\SHU\大四\毕业论文\temp\UIdesign\UIdesign\obj\x64\Debug\UIdesign.Form1.resources
+D:\SHU\大四\毕业论文\temp\UIdesign\UIdesign\obj\x64\Debug\UIdesign.Form2.resources
+D:\SHU\大四\毕业论文\temp\UIdesign\UIdesign\obj\x64\Debug\UIdesign.Form3.resources
+D:\SHU\大四\毕业论文\temp\UIdesign\UIdesign\obj\x64\Debug\UIdesign.Form4.resources
+D:\SHU\大四\毕业论文\temp\UIdesign\UIdesign\obj\x64\Debug\UIdesign.Form5.resources
+D:\SHU\大四\毕业论文\temp\UIdesign\UIdesign\obj\x64\Debug\UIdesign.Properties.Resources.resources
+D:\SHU\大四\毕业论文\temp\UIdesign\UIdesign\obj\x64\Debug\UIdesign.csproj.GenerateResource.Cache
+D:\SHU\大四\毕业论文\temp\UIdesign\UIdesign\obj\x64\Debug\UIdesign.exe
+D:\SHU\大四\毕业论文\temp\UIdesign\UIdesign\obj\x64\Debug\UIdesign.pdb
